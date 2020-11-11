@@ -178,7 +178,7 @@ public class User
         this.password = passwordEncoder.encode(password);
     }
 
-    public void SetPasswordNoEncrypt(String password) {
+    public void setPasswordNoEncrypt(String password) {
         this.password = password;
     }
 
