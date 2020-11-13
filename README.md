@@ -1,3 +1,5 @@
+PROJECT DEPLOYED URL HERE https://slalli-shoppingcartdeploy.herokuapp.com/
+
 # Project Shopping Cart
 
 A Student that completes this project shows they can:
